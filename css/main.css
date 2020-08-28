@@ -3,11 +3,14 @@ body {
   background-color: azure;
 }
 
+
 .navbar-brand {
   font-size: 20px;
   color: #000;
   font-weight: bold;
 }
+
+
 
 #testimonial {
   background: pink;
@@ -35,7 +38,7 @@ body {
 
 .footer-style {
   padding-top: 50px;
-  background-color:antiquewhite;
+  background-color:#D7BDE2;
 }
 footer {
 color: grey;
@@ -59,4 +62,3 @@ background-color: #233140;
   width: 50px;
   height: 50px;
 }
-
